@@ -1,7 +1,7 @@
 name: The Static Frost
 favicon: null
-layout_spectrum: 0.3221905115060508
-typography_spectrum: 0.4420350769069046
+layout_spectrum: 0
+typography_spectrum: 0.82828
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.33801445248536766
-  lightness: 0.6292327577248216
-  saturation: 0.9534470525104553
-  rhythmicContrast: 0.48385880305431783
+    - '#ffffff'
+    - '#030406'
+    - '#8ba6d5'
+    - '#31415b'
+    - '#0fb7f4'
+  brandStrength: 0.3125
+  lightness: 0.75
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
